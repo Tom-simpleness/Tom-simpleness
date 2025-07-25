@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Tom 👋
 Passionate about Web3 and AI, I am actually designing and optimize robust tools and infrastructures for data aggregation, market making, and algorithmic trading. 
 
 💡 Tech Stack & Expertise
