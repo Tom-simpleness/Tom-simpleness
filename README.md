@@ -1,4 +1,4 @@
-## Hi there, I'm Tom 👋
+## Hi there, I'm Tom 👋![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 Passionate about Web3 and AI, I am actually designing and optimize robust tools and infrastructures for data aggregation, market making, and algorithmic trading. 
 
 💡 Tech Stack & Expertise
